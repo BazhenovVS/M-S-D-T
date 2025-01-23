@@ -1,0 +1,9 @@
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\bin\Debug\NoteApp.dll
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.Up2Date
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\obj\Debug\NoteApp.dll
+C:\Users\fanti\Desktop\NoteApp-master\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
